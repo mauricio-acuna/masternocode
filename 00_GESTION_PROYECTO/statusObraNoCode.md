@@ -6,7 +6,7 @@ Este tablero controla el arranque editorial de la obra independiente basada en e
 
 ## Resumen
 
-- Estado: REDACCIÓN INICIADA - Capítulos 1, 2, 3, 4 y 5 desarrollados.
+- Estado: REDACCIÓN INICIADA - Capítulos 1, 2, 3, 4, 5 y 6 desarrollados.
 - Tipo de obra recomendada: libro breve / ensayo tecnico / caso de estudio accionable.
 - Relacion con Spotybank: obra independiente con temas transversales reutilizables.
 - Material fuente: 16 diapositivas, Markdown limpio, texto literal, plan editorial, DOCX e imagenes.
@@ -31,6 +31,7 @@ Este tablero controla el arranque editorial de la obra independiente basada en e
 | Capitulo 3 desarrollado | DONE | `capitulo_3.md` |
 | Capitulo 4 desarrollado | DONE | `capitulo_4.md` |
 | Capitulo 5 desarrollado | DONE | `capitulo_5.md` |
+| Capitulo 6 desarrollado | DONE | `capitulo_6.md` |
 
 ## Proximos pasos recomendados
 
@@ -39,7 +40,7 @@ Este tablero controla el arranque editorial de la obra independiente basada en e
 3. Confirmar tratamiento de identidad: real, anonimizado o hibrido.
 4. Crear repo Git propio para esta obra.
 5. Empezar redaccion por `INDICE_PROVISIONAL_NOCODE.md`.
-6. Desarrollar capitulo 6 antes de producir piezas comerciales.
+6. Desarrollar capitulo 7 antes de producir piezas comerciales.
 7. Revisar permisos de imagenes y marcas antes de publicar.
 
 ## Bloqueos editoriales
