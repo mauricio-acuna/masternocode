@@ -53,5 +53,4 @@ Esta obra presenta un caso específico de integración e-commerce como ilustraci
 | Observabilidad | Vendor opaco | Frágil en escala | Integrada |
 | Mantenimiento | Dependiente | Versión-sensible | Equipo interno |
 
-Este capítulo establece el marco conceptual. Los siguientes exploran el caso concreto, sus fracasos útiles y el enfoque exitoso.</content>
-<parameter name="filePath">d:\j\NoCodeIA\noCode\capitulo_1.md
+Este capítulo establece el marco conceptual. Los siguientes exploran el caso concreto, sus fracasos útiles y el enfoque exitoso.

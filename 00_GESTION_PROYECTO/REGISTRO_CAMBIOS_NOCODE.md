@@ -9,4 +9,8 @@
 | 2026-05-13 | Metodo IA | Agregadas instrucciones para que otra IA continue la obra sin mezclarla con Spotybank. |
 | 2026-05-13 | Redaccion | Desarrollado Capitulo 1: La falsa dicotomia Code / No-Code con voz editorial final. |
 | 2026-05-13 | Gestion | Creado plan de trabajo paso a paso. |
-
+| 2026-05-13 | Redaccion | Desarrollado Capitulo 2: El caso: sincronizar 8.000 productos. |
+| 2026-05-13 | Revision | Limpiado residuo tecnico al final de capitulo_1.md. |
+| 2026-05-14 | Redaccion | Desarrollado Capitulo 3: Enfoque 1: ETL tradicional. |
+| 2026-05-14 | Redaccion | Desarrollado Capitulo 4: Enfoque 2: n8n y el punto medio fragil. |
+| 2026-05-23 | Redaccion | Desarrollado Capitulo 5: Enfoque 3: knowledge base y agentes de IA. |

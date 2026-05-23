@@ -6,7 +6,7 @@ Este tablero controla el arranque editorial de la obra independiente basada en e
 
 ## Resumen
 
-- Estado: REDACCIÓN INICIADA - Capítulo 1 desarrollado.
+- Estado: REDACCIÓN INICIADA - Capítulos 1, 2, 3, 4 y 5 desarrollados.
 - Tipo de obra recomendada: libro breve / ensayo tecnico / caso de estudio accionable.
 - Relacion con Spotybank: obra independiente con temas transversales reutilizables.
 - Material fuente: 16 diapositivas, Markdown limpio, texto literal, plan editorial, DOCX e imagenes.
@@ -27,6 +27,10 @@ Este tablero controla el arranque editorial de la obra independiente basada en e
 | Propuesta de licencia | DONE | `PROPUESTA_LICENCIA_Y_USO_NOCODE.md` |
 | Plan de trabajo | DONE | `plan_trabajo.md` |
 | Capitulo 1 desarrollado | DONE | `capitulo_1.md` |
+| Capitulo 2 desarrollado | DONE | `capitulo_2.md` |
+| Capitulo 3 desarrollado | DONE | `capitulo_3.md` |
+| Capitulo 4 desarrollado | DONE | `capitulo_4.md` |
+| Capitulo 5 desarrollado | DONE | `capitulo_5.md` |
 
 ## Proximos pasos recomendados
 
@@ -35,7 +39,7 @@ Este tablero controla el arranque editorial de la obra independiente basada en e
 3. Confirmar tratamiento de identidad: real, anonimizado o hibrido.
 4. Crear repo Git propio para esta obra.
 5. Empezar redaccion por `INDICE_PROVISIONAL_NOCODE.md`.
-6. Desarrollar capitulo 1 antes de producir piezas comerciales.
+6. Desarrollar capitulo 6 antes de producir piezas comerciales.
 7. Revisar permisos de imagenes y marcas antes de publicar.
 
 ## Bloqueos editoriales
@@ -50,5 +54,4 @@ Este tablero controla el arranque editorial de la obra independiente basada en e
 
 ## Criterio de avance
 
-La obra puede entrar en redaccion cuando se decida si el caso conserva identidad real o si se transforma en caso anonimizado.
-
+La obra puede seguir en borrador interno mientras se decide si el caso conserva identidad real o si se transforma en caso anonimizado. La version publicable requiere cerrar esa decision.
