@@ -6,7 +6,7 @@ Este tablero controla el arranque editorial de la obra independiente basada en e
 
 ## Resumen
 
-- Estado: REDACCIÓN BASE COMPLETA - Capítulos 1, 2, 3, 4, 5, 6, 7 y 8 desarrollados.
+- Estado: BORRADOR COMPLETO - Capítulos 1 a 8 y apéndices A a E desarrollados.
 - Tipo de obra recomendada: libro breve / ensayo tecnico / caso de estudio accionable.
 - Relacion con Spotybank: obra independiente con temas transversales reutilizables.
 - Material fuente: 16 diapositivas, Markdown limpio, texto literal, plan editorial, DOCX e imagenes.
@@ -34,16 +34,19 @@ Este tablero controla el arranque editorial de la obra independiente basada en e
 | Capitulo 6 desarrollado | DONE | `capitulo_6.md` |
 | Capitulo 7 desarrollado | DONE | `capitulo_7.md` |
 | Capitulo 8 desarrollado | DONE | `capitulo_8.md` |
+| Apendice A desarrollado | DONE | `apendice_a_checklist_cajas_negras.md` |
+| Apendice B desarrollado | DONE | `apendice_b_plantilla_knowledge_base.md` |
+| Apendice C desarrollado | DONE | `apendice_c_matriz_decision.md` |
+| Apendice D desarrollado | DONE | `apendice_d_guion_charla_20_minutos.md` |
+| Apendice E desarrollado | DONE | `apendice_e_posts_newsletter_derivados.md` |
 
 ## Proximos pasos recomendados
 
-1. Mover la carpeta completa `suplemento` al nuevo workspace.
-2. Abrir `README_OBRA_NOCODE.md`.
-3. Confirmar tratamiento de identidad: real, anonimizado o hibrido.
-4. Crear repo Git propio para esta obra.
-5. Empezar redaccion por `INDICE_PROVISIONAL_NOCODE.md`.
-6. Desarrollar apendices antes de producir piezas comerciales.
-7. Revisar permisos de imagenes y marcas antes de publicar.
+1. Ejecutar checklist de revision tecnica, editorial y comercial.
+2. Confirmar tratamiento de identidad: real, anonimizado o hibrido.
+3. Revisar permisos de imagenes, marcas y nombres antes de publicar.
+4. Contextualizar claims de costo, escala y ahorro.
+5. Preparar version publicable en Markdown/PDF/HTML.
 
 ## Bloqueos editoriales
 

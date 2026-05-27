@@ -10,6 +10,7 @@ Convertir el material de la charla técnica en una obra literaria técnica breve
 - Índice provisional definido.
 - Decisiones editoriales tomadas (obra independiente, no anti no-code, knowledge base primero, observabilidad central, cuidado con nombres/marcas).
 - Capítulos 1, 2, 3, 4, 5, 6, 7 y 8 desarrollados como borrador editorial.
+- Apéndices A, B, C, D y E desarrollados como material aplicable y reutilizable.
 - Riesgos identificados: marcas reales (Shopify, n8n, etc.), nombres (Brian Hume, Max Planck Dev), cifras del caso.
 
 ## Plan de Trabajo Paso a Paso
@@ -35,7 +36,7 @@ Convertir el material de la charla técnica en una obra literaria técnica breve
 
 ### Fase 4: Redacción de Parte III y Cierre (Semanas 6-7)
 14. **Capítulo 8** - "El nuevo oficio del developer" (conclusión conceptual). **DONE**
-15. **Desarrollar apéndices** - Checklists, plantillas, guion de charla.
+15. **Desarrollar apéndices** - Checklists, plantillas, guion de charla. **DONE**
 16. **Actualizar status y registro**.
 
 ### Fase 5: Revisión y Publicación (Semanas 8-9)
@@ -60,4 +61,4 @@ Convertir el material de la charla técnica en una obra literaria técnica breve
 - **IA como magia**: Mostrar dependencia de knowledge base y contexto.
 
 ## Próximo Acción Inmediata
-Desarrollar apéndices: checklist para detectar cajas negras caras, plantilla de knowledge base, matriz de decisión, guion de charla y piezas derivadas.
+Ejecutar checklist de revisión técnica/editorial y preparar versión publicable.
