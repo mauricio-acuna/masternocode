@@ -16,3 +16,4 @@
 | 2026-05-23 | Redaccion | Desarrollado Capitulo 5: Enfoque 3: knowledge base y agentes de IA. |
 | 2026-05-23 | Redaccion | Desarrollado Capitulo 6: Observabilidad como feature. |
 | 2026-05-26 | Redaccion | Desarrollado Capitulo 7: Interfaces operativas con IA. |
+| 2026-05-27 | Redaccion | Desarrollado Capitulo 8: El nuevo oficio del developer. |
