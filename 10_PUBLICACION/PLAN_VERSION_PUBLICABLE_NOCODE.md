@@ -6,6 +6,17 @@
 Code / No-Code - v0.1-borrador-publicable
 ```
 
+## Estado actual
+
+```text
+v0.1-borrador-publicable-condicionado preparado el 2026-05-28
+```
+
+Ver:
+
+- `09_REVISIONES/REVISION_V0_1_NOCODE.md`
+- `10_PUBLICACION/CODE_NO_CODE_V0_1_BORRADOR_PUBLICABLE.md`
+
 ## Alcance sugerido
 
 Incluye:
@@ -26,15 +37,15 @@ No incluye inicialmente:
 
 ## Secuencia recomendada
 
-1. Definir tratamiento de identidad: real, anonimizada o hibrida.
-2. Crear portada y ficha del proyecto.
-3. Redactar capitulos 1 a 8.
-4. Crear apendices.
-5. Revisar claims tecnicos y comerciales.
-6. Revisar permisos de imagenes, marcas y nombres.
-7. Definir licencia.
-8. Exportar Markdown/PDF/HTML.
-9. Preparar piezas de difusion.
+1. Definir tratamiento de identidad: real, anonimizada o hibrida. **PENDIENTE**
+2. Crear portada y ficha del proyecto. **DONE como borrador, pendiente autor/licencia**
+3. Redactar capitulos 1 a 8. **DONE**
+4. Crear apendices. **DONE**
+5. Revisar claims tecnicos y comerciales. **DONE**
+6. Revisar permisos de imagenes, marcas y nombres. **PENDIENTE**
+7. Definir licencia. **PENDIENTE**
+8. Exportar Markdown/PDF/HTML. **PENDIENTE**
+9. Preparar piezas de difusion. **DONE como borrador, pendiente revision final**
 
 ## Riesgos antes de publicar
 
@@ -56,4 +67,3 @@ No incluye inicialmente:
 | DOCX | Revision externa |
 | Carrusel | Difusion LinkedIn |
 | Newsletter | Relacion con audiencia |
-

@@ -6,7 +6,7 @@ Este tablero controla el arranque editorial de la obra independiente basada en e
 
 ## Resumen
 
-- Estado: BORRADOR COMPLETO - Capítulos 1 a 8 y apéndices A a E desarrollados.
+- Estado: BORRADOR PUBLICABLE CONDICIONADO - Capitulos 1 a 8, apendices A a E y revision v0.1 completados.
 - Tipo de obra recomendada: libro breve / ensayo tecnico / caso de estudio accionable.
 - Relacion con Spotybank: obra independiente con temas transversales reutilizables.
 - Material fuente: 16 diapositivas, Markdown limpio, texto literal, plan editorial, DOCX e imagenes.
@@ -20,7 +20,7 @@ Este tablero controla el arranque editorial de la obra independiente basada en e
 | Decisiones editoriales | DONE | `DECISIONES_EDITORIALES_NOCODE.md` |
 | Instrucciones para otra IA | DONE | `INSTRUCCIONES_PARA_OTRA_IA.md` |
 | Mapa de material existente | DONE | `MAPA_MATERIAL_EXISTENTE.md` |
-| Indice provisional | DONE | `INDICE_PROVISIONAL_NOCODE.md` |
+| Indice v0.1 | DONE | `INDICE_PROVISIONAL_NOCODE.md` |
 | Metodo de trabajo con IA | DONE | `METODO_TRABAJO_IA.md` |
 | Checklist de revision | DONE | `CHECKLIST_REVISION_TECNICA_EDITORIAL_NOCODE.md` |
 | Plan publicable | DONE | `PLAN_VERSION_PUBLICABLE_NOCODE.md` |
@@ -39,14 +39,17 @@ Este tablero controla el arranque editorial de la obra independiente basada en e
 | Apendice C desarrollado | DONE | `apendice_c_matriz_decision.md` |
 | Apendice D desarrollado | DONE | `apendice_d_guion_charla_20_minutos.md` |
 | Apendice E desarrollado | DONE | `apendice_e_posts_newsletter_derivados.md` |
+| Revision v0.1 ejecutada | DONE | `REVISION_V0_1_NOCODE.md` |
+| Paquete v0.1 preparado | DONE | `CODE_NO_CODE_V0_1_BORRADOR_PUBLICABLE.md` |
+| Portada y creditos borrador | DONE | `PORTADA_CREDITOS_BORRADOR.md` |
 
 ## Proximos pasos recomendados
 
-1. Ejecutar checklist de revision tecnica, editorial y comercial.
-2. Confirmar tratamiento de identidad: real, anonimizado o hibrido.
-3. Revisar permisos de imagenes, marcas y nombres antes de publicar.
-4. Contextualizar claims de costo, escala y ahorro.
-5. Preparar version publicable en Markdown/PDF/HTML.
+1. Confirmar tratamiento de identidad: real, anonimizado o hibrido.
+2. Revisar permisos de imagenes, marcas y nombres antes de publicar.
+3. Definir licencia final o criterio de uso externo.
+4. Crear copia saneada si se elige ruta anonima o hibrida.
+5. Exportar version publicable en PDF/HTML/DOCX.
 
 ## Bloqueos editoriales
 

@@ -11,6 +11,7 @@ Convertir el material de la charla técnica en una obra literaria técnica breve
 - Decisiones editoriales tomadas (obra independiente, no anti no-code, knowledge base primero, observabilidad central, cuidado con nombres/marcas).
 - Capítulos 1, 2, 3, 4, 5, 6, 7 y 8 desarrollados como borrador editorial.
 - Apéndices A, B, C, D y E desarrollados como material aplicable y reutilizable.
+- Revision tecnica/editorial/comercial v0.1 ejecutada; paquete publicable condicionado preparado.
 - Riesgos identificados: marcas reales (Shopify, n8n, etc.), nombres (Brian Hume, Max Planck Dev), cifras del caso.
 
 ## Plan de Trabajo Paso a Paso
@@ -40,9 +41,9 @@ Convertir el material de la charla técnica en una obra literaria técnica breve
 16. **Actualizar status y registro**.
 
 ### Fase 5: Revisión y Publicación (Semanas 8-9)
-17. **Ejecutar checklist de revisión** - Técnica, editorial, comercial.
+17. **Ejecutar checklist de revisión** - Técnica, editorial, comercial. **DONE**
 18. **Decidir tratamiento de marcas/nombres** - Real, anonimizado o híbrido.
-19. **Preparar versión publicable** - Formato, licencia, piezas derivadas.
+19. **Preparar versión publicable** - Formato, licencia, piezas derivadas. **DONE (condicionado)**
 20. **Finalizar obra**.
 
 ## Criterios de Calidad por Capítulo
@@ -61,4 +62,4 @@ Convertir el material de la charla técnica en una obra literaria técnica breve
 - **IA como magia**: Mostrar dependencia de knowledge base y contexto.
 
 ## Próximo Acción Inmediata
-Ejecutar checklist de revisión técnica/editorial y preparar versión publicable.
+Decidir tratamiento de identidad/marcas y crear copia saneada para exportacion publica.
