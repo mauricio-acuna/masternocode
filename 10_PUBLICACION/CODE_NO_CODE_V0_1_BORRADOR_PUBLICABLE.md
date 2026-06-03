@@ -71,10 +71,10 @@ Este texto desarrolla un caso tecnico especifico. Las cifras de tiempo, costo, e
 
 1. Usar esta version como paquete de lectura interna.
 2. Decidir identidad: real, anonima o hibrida.
-3. Crear una copia saneada si se elige ruta anonima o hibrida.
+3. Crear una copia saneada si se elige ruta anonima o hibrida. **DONE: `10_PUBLICACION/v0_1_hibrida_saneada/`**
 4. Excluir materiales fuente e imagenes no autorizadas.
 5. Agregar licencia final.
-6. Exportar a PDF/HTML/DOCX.
+6. Exportar a PDF/HTML/DOCX. **Markdown completo generado: `CODE_NO_CODE_V0_1_HIBRIDA_SANEADA_COMPLETO.md`**
 7. Revisar piezas derivadas antes de difusion.
 
 ## Orden de ensamblado

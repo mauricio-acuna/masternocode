@@ -12,6 +12,7 @@ Convertir el material de la charla técnica en una obra literaria técnica breve
 - Capítulos 1, 2, 3, 4, 5, 6, 7 y 8 desarrollados como borrador editorial.
 - Apéndices A, B, C, D y E desarrollados como material aplicable y reutilizable.
 - Revision tecnica/editorial/comercial v0.1 ejecutada; paquete publicable condicionado preparado.
+- Copia hibrida saneada y Markdown completo ensamblado preparados para revision externa.
 - Riesgos identificados: marcas reales (Shopify, n8n, etc.), nombres (Brian Hume, Max Planck Dev), cifras del caso.
 
 ## Plan de Trabajo Paso a Paso
@@ -62,4 +63,4 @@ Convertir el material de la charla técnica en una obra literaria técnica breve
 - **IA como magia**: Mostrar dependencia de knowledge base y contexto.
 
 ## Próximo Acción Inmediata
-Decidir tratamiento de identidad/marcas y crear copia saneada para exportacion publica.
+Definir autor/licencia y exportar version saneada a PDF/HTML/DOCX.

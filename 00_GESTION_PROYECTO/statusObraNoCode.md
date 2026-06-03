@@ -42,13 +42,15 @@ Este tablero controla el arranque editorial de la obra independiente basada en e
 | Revision v0.1 ejecutada | DONE | `REVISION_V0_1_NOCODE.md` |
 | Paquete v0.1 preparado | DONE | `CODE_NO_CODE_V0_1_BORRADOR_PUBLICABLE.md` |
 | Portada y creditos borrador | DONE | `PORTADA_CREDITOS_BORRADOR.md` |
+| Copia hibrida saneada | DONE | `10_PUBLICACION/v0_1_hibrida_saneada/` |
+| Markdown saneado ensamblado | DONE | `CODE_NO_CODE_V0_1_HIBRIDA_SANEADA_COMPLETO.md` |
 
 ## Proximos pasos recomendados
 
 1. Confirmar tratamiento de identidad: real, anonimizado o hibrido.
 2. Revisar permisos de imagenes, marcas y nombres antes de publicar.
 3. Definir licencia final o criterio de uso externo.
-4. Crear copia saneada si se elige ruta anonima o hibrida.
+4. Definir licencia final en portada/creditos.
 5. Exportar version publicable en PDF/HTML/DOCX.
 
 ## Bloqueos editoriales

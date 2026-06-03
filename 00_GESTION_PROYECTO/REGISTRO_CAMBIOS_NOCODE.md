@@ -19,3 +19,4 @@
 | 2026-05-27 | Redaccion | Desarrollado Capitulo 8: El nuevo oficio del developer. |
 | 2026-05-27 | Redaccion | Desarrollados apendices A-E: checklist, knowledge base, matriz de decision, guion de charla y piezas derivadas. |
 | 2026-05-28 | Revision/Publicacion | Ejecutada revision v0.1 y preparado paquete de borrador publicable condicionado. |
+| 2026-05-28 | Publicacion | Preparada copia hibrida saneada y Markdown completo ensamblado para revision externa. |

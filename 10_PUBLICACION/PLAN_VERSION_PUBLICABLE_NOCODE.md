@@ -44,7 +44,7 @@ No incluye inicialmente:
 5. Revisar claims tecnicos y comerciales. **DONE**
 6. Revisar permisos de imagenes, marcas y nombres. **PENDIENTE**
 7. Definir licencia. **PENDIENTE**
-8. Exportar Markdown/PDF/HTML. **PENDIENTE**
+8. Exportar Markdown/PDF/HTML. **DONE Markdown saneado; pendiente PDF/HTML/DOCX**
 9. Preparar piezas de difusion. **DONE como borrador, pendiente revision final**
 
 ## Riesgos antes de publicar
