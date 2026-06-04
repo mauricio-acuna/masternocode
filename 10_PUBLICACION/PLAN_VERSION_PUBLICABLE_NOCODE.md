@@ -75,5 +75,6 @@ No incluye inicialmente:
 | Markdown saneado completo | DONE | `10_PUBLICACION/CODE_NO_CODE_V0_1_HIBRIDA_SANEADA_COMPLETO.md` |
 | HTML imprimible | DONE | `10_PUBLICACION/exportados/CODE_NO_CODE_V0_1_HIBRIDA_SANEADA.html` |
 | Guia de exportacion | DONE | `10_PUBLICACION/GUIA_EXPORTACION_VERSION_SANEADA.md` |
+| Paquete de revision externa | DONE | `10_PUBLICACION/PAQUETE_REVISION_EXTERNA.md` |
 | PDF | PENDIENTE | Generar desde navegador o Pandoc |
 | DOCX | PENDIENTE | Requiere Pandoc/LibreOffice |

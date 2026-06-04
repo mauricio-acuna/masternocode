@@ -20,11 +20,11 @@ Este tablero controla el arranque editorial de la obra independiente basada en e
 | Decisiones editoriales | DONE | `DECISIONES_EDITORIALES_NOCODE.md` |
 | Instrucciones para otra IA | DONE | `INSTRUCCIONES_PARA_OTRA_IA.md` |
 | Mapa de material existente | DONE | `MAPA_MATERIAL_EXISTENTE.md` |
-| Indice v0.1 | DONE | `INDICE_PROVISIONAL_NOCODE.md` |
+| Indice v0.1 | DONE | `02_PLANIFICACION/INDICE_PROVISIONAL_NOCODE.md` |
 | Metodo de trabajo con IA | DONE | `METODO_TRABAJO_IA.md` |
-| Checklist de revision | DONE | `CHECKLIST_REVISION_TECNICA_EDITORIAL_NOCODE.md` |
-| Plan publicable | DONE | `PLAN_VERSION_PUBLICABLE_NOCODE.md` |
-| Propuesta de licencia | DONE | `PROPUESTA_LICENCIA_Y_USO_NOCODE.md` |
+| Checklist de revision | DONE | `09_REVISIONES/CHECKLIST_REVISION_TECNICA_EDITORIAL_NOCODE.md` |
+| Plan publicable | DONE | `10_PUBLICACION/PLAN_VERSION_PUBLICABLE_NOCODE.md` |
+| Propuesta de licencia | DONE | `10_PUBLICACION/PROPUESTA_LICENCIA_Y_USO_NOCODE.md` |
 | Plan de trabajo | DONE | `plan_trabajo.md` |
 | Capitulo 1 desarrollado | DONE | `capitulo_1.md` |
 | Capitulo 2 desarrollado | DONE | `capitulo_2.md` |
@@ -39,13 +39,14 @@ Este tablero controla el arranque editorial de la obra independiente basada en e
 | Apendice C desarrollado | DONE | `apendice_c_matriz_decision.md` |
 | Apendice D desarrollado | DONE | `apendice_d_guion_charla_20_minutos.md` |
 | Apendice E desarrollado | DONE | `apendice_e_posts_newsletter_derivados.md` |
-| Revision v0.1 ejecutada | DONE | `REVISION_V0_1_NOCODE.md` |
-| Paquete v0.1 preparado | DONE | `CODE_NO_CODE_V0_1_BORRADOR_PUBLICABLE.md` |
-| Portada y creditos borrador | DONE | `PORTADA_CREDITOS_BORRADOR.md` |
+| Revision v0.1 ejecutada | DONE | `09_REVISIONES/REVISION_V0_1_NOCODE.md` |
+| Paquete v0.1 preparado | DONE | `10_PUBLICACION/CODE_NO_CODE_V0_1_BORRADOR_PUBLICABLE.md` |
+| Portada y creditos borrador | DONE | `10_PUBLICACION/PORTADA_CREDITOS_BORRADOR.md` |
 | Copia hibrida saneada | DONE | `10_PUBLICACION/v0_1_hibrida_saneada/` |
-| Markdown saneado ensamblado | DONE | `CODE_NO_CODE_V0_1_HIBRIDA_SANEADA_COMPLETO.md` |
+| Markdown saneado ensamblado | DONE | `10_PUBLICACION/CODE_NO_CODE_V0_1_HIBRIDA_SANEADA_COMPLETO.md` |
 | HTML imprimible saneado | DONE | `10_PUBLICACION/exportados/CODE_NO_CODE_V0_1_HIBRIDA_SANEADA.html` |
 | Guia de exportacion | DONE | `10_PUBLICACION/GUIA_EXPORTACION_VERSION_SANEADA.md` |
+| Paquete de revision externa | DONE | `10_PUBLICACION/PAQUETE_REVISION_EXTERNA.md` |
 
 ## Proximos pasos recomendados
 
@@ -53,7 +54,8 @@ Este tablero controla el arranque editorial de la obra independiente basada en e
 2. Revisar permisos de imagenes, marcas y nombres antes de publicar.
 3. Definir licencia final o criterio de uso externo.
 4. Definir licencia final en portada/creditos.
-5. Exportar version publicable en PDF/DOCX final.
+5. Ejecutar lectura externa controlada sobre el paquete saneado.
+6. Exportar version publicable en PDF/DOCX final.
 
 ## Bloqueos editoriales
 
