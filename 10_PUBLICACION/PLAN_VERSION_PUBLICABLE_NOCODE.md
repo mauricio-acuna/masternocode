@@ -44,7 +44,7 @@ No incluye inicialmente:
 5. Revisar claims tecnicos y comerciales. **DONE**
 6. Revisar permisos de imagenes, marcas y nombres. **PENDIENTE**
 7. Definir licencia. **PENDIENTE**
-8. Exportar Markdown/PDF/HTML. **DONE Markdown saneado; pendiente PDF/HTML/DOCX**
+8. Exportar Markdown/PDF/HTML. **DONE Markdown saneado y HTML imprimible; pendiente PDF/DOCX final**
 9. Preparar piezas de difusion. **DONE como borrador, pendiente revision final**
 
 ## Riesgos antes de publicar
@@ -67,3 +67,13 @@ No incluye inicialmente:
 | DOCX | Revision externa |
 | Carrusel | Difusion LinkedIn |
 | Newsletter | Relacion con audiencia |
+
+## Exportacion preparada
+
+| Artefacto | Estado | Ruta |
+|---|---|---|
+| Markdown saneado completo | DONE | `10_PUBLICACION/CODE_NO_CODE_V0_1_HIBRIDA_SANEADA_COMPLETO.md` |
+| HTML imprimible | DONE | `10_PUBLICACION/exportados/CODE_NO_CODE_V0_1_HIBRIDA_SANEADA.html` |
+| Guia de exportacion | DONE | `10_PUBLICACION/GUIA_EXPORTACION_VERSION_SANEADA.md` |
+| PDF | PENDIENTE | Generar desde navegador o Pandoc |
+| DOCX | PENDIENTE | Requiere Pandoc/LibreOffice |

@@ -1,6 +1,13 @@
 # Indice v0.1 - Borrador publicable condicionado
 
-Estado: capitulos y apendices desarrollados. Pendiente: decisiones de identidad, marcas, permisos y licencia antes de publicacion externa.
+Estado: capitulos y apendices desarrollados. Existe copia hibrida saneada, Markdown completo y HTML imprimible. Pendiente: autor, licencia, permisos finales y exportacion PDF/DOCX.
+
+## Ruta publicable saneada
+
+- Carpeta capitulos/apendices saneados: `10_PUBLICACION/v0_1_hibrida_saneada/`
+- Markdown completo saneado: `10_PUBLICACION/CODE_NO_CODE_V0_1_HIBRIDA_SANEADA_COMPLETO.md`
+- HTML imprimible: `10_PUBLICACION/exportados/CODE_NO_CODE_V0_1_HIBRIDA_SANEADA.html`
+- Guia de exportacion: `10_PUBLICACION/GUIA_EXPORTACION_VERSION_SANEADA.md`
 
 ## Partes preliminares
 

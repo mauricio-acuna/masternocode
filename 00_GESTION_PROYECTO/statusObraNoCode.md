@@ -44,6 +44,8 @@ Este tablero controla el arranque editorial de la obra independiente basada en e
 | Portada y creditos borrador | DONE | `PORTADA_CREDITOS_BORRADOR.md` |
 | Copia hibrida saneada | DONE | `10_PUBLICACION/v0_1_hibrida_saneada/` |
 | Markdown saneado ensamblado | DONE | `CODE_NO_CODE_V0_1_HIBRIDA_SANEADA_COMPLETO.md` |
+| HTML imprimible saneado | DONE | `10_PUBLICACION/exportados/CODE_NO_CODE_V0_1_HIBRIDA_SANEADA.html` |
+| Guia de exportacion | DONE | `10_PUBLICACION/GUIA_EXPORTACION_VERSION_SANEADA.md` |
 
 ## Proximos pasos recomendados
 
@@ -51,7 +53,7 @@ Este tablero controla el arranque editorial de la obra independiente basada en e
 2. Revisar permisos de imagenes, marcas y nombres antes de publicar.
 3. Definir licencia final o criterio de uso externo.
 4. Definir licencia final en portada/creditos.
-5. Exportar version publicable en PDF/HTML/DOCX.
+5. Exportar version publicable en PDF/DOCX final.
 
 ## Bloqueos editoriales
 
