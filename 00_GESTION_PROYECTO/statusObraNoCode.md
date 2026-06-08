@@ -45,6 +45,7 @@ Este tablero controla el arranque editorial de la obra independiente basada en e
 | Copia hibrida saneada | DONE | `10_PUBLICACION/v0_1_hibrida_saneada/` |
 | Markdown saneado ensamblado | DONE | `10_PUBLICACION/CODE_NO_CODE_V0_1_HIBRIDA_SANEADA_COMPLETO.md` |
 | HTML imprimible saneado | DONE | `10_PUBLICACION/exportados/CODE_NO_CODE_V0_1_HIBRIDA_SANEADA.html` |
+| PDF saneado exportado | DONE | `10_PUBLICACION/exportados/CODE_NO_CODE_V0_1_HIBRIDA_SANEADA.pdf` |
 | Guia de exportacion | DONE | `10_PUBLICACION/GUIA_EXPORTACION_VERSION_SANEADA.md` |
 | Paquete de revision externa | DONE | `10_PUBLICACION/PAQUETE_REVISION_EXTERNA.md` |
 
@@ -55,7 +56,7 @@ Este tablero controla el arranque editorial de la obra independiente basada en e
 3. Definir licencia final o criterio de uso externo.
 4. Definir licencia final en portada/creditos.
 5. Ejecutar lectura externa controlada sobre el paquete saneado.
-6. Exportar version publicable en PDF/DOCX final.
+6. Exportar version publicable en DOCX final si se requiere revision editable externa.
 
 ## Bloqueos editoriales
 

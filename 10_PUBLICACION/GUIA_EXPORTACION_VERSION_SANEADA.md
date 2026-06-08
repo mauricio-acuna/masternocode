@@ -10,6 +10,7 @@ Fecha de preparacion: 2026-06-04
 | Manuscrito completo | `10_PUBLICACION/CODE_NO_CODE_V0_1_HIBRIDA_SANEADA_COMPLETO.md` |
 | Capitulos separados | `10_PUBLICACION/v0_1_hibrida_saneada/` |
 | HTML generado | `10_PUBLICACION/exportados/CODE_NO_CODE_V0_1_HIBRIDA_SANEADA.html` |
+| PDF generado | `10_PUBLICACION/exportados/CODE_NO_CODE_V0_1_HIBRIDA_SANEADA.pdf` |
 | Exportador local | `10_PUBLICACION/exportar_version_saneada.mjs` |
 
 ## Generar HTML
@@ -32,6 +33,14 @@ El resultado queda en:
 2. Usar imprimir.
 3. Elegir destino `Guardar como PDF`.
 4. Revisar saltos de pagina, tablas largas y enlaces internos.
+
+## Generar PDF con Edge headless
+
+En Windows, si Edge esta instalado, tambien se puede generar PDF desde la raiz del repositorio con:
+
+```powershell
+& 'C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe' --headless=new --disable-gpu --no-first-run --no-default-browser-check --user-data-dir='C:\tmp\codex-edge-profile-nocode' --print-to-pdf='D:\j\NoCodeIA\noCode\10_PUBLICACION\exportados\CODE_NO_CODE_V0_1_HIBRIDA_SANEADA.pdf' 'file:///D:/j/NoCodeIA/noCode/10_PUBLICACION/exportados/CODE_NO_CODE_V0_1_HIBRIDA_SANEADA.html'
+```
 
 ## Generar PDF/DOCX con Pandoc
 

@@ -7,6 +7,7 @@ Estado: capitulos y apendices desarrollados. Existe copia hibrida saneada, Markd
 - Carpeta capitulos/apendices saneados: `10_PUBLICACION/v0_1_hibrida_saneada/`
 - Markdown completo saneado: `10_PUBLICACION/CODE_NO_CODE_V0_1_HIBRIDA_SANEADA_COMPLETO.md`
 - HTML imprimible: `10_PUBLICACION/exportados/CODE_NO_CODE_V0_1_HIBRIDA_SANEADA.html`
+- PDF exportado: `10_PUBLICACION/exportados/CODE_NO_CODE_V0_1_HIBRIDA_SANEADA.pdf`
 - Guia de exportacion: `10_PUBLICACION/GUIA_EXPORTACION_VERSION_SANEADA.md`
 
 ## Partes preliminares

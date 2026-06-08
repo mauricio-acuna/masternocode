@@ -22,3 +22,4 @@
 | 2026-05-28 | Publicacion | Preparada copia hibrida saneada y Markdown completo ensamblado para revision externa. |
 | 2026-06-04 | Publicacion | Agregado exportador local a HTML imprimible y guia de exportacion para la version saneada. |
 | 2026-06-04 | Publicacion | Preparado paquete de revision externa y corregida trazabilidad de evidencias. |
+| 2026-06-04 | Publicacion | Generado PDF saneado desde HTML imprimible mediante navegador headless. |

@@ -12,6 +12,7 @@ Este paquete esta listo para lectura externa controlada. No esta aprobado para p
 | Uso | Archivo |
 |---|---|
 | Lectura en navegador | `10_PUBLICACION/exportados/CODE_NO_CODE_V0_1_HIBRIDA_SANEADA.html` |
+| Lectura/envio en PDF | `10_PUBLICACION/exportados/CODE_NO_CODE_V0_1_HIBRIDA_SANEADA.pdf` |
 | Manuscrito completo editable | `10_PUBLICACION/CODE_NO_CODE_V0_1_HIBRIDA_SANEADA_COMPLETO.md` |
 | Capitulos y apendices separados | `10_PUBLICACION/v0_1_hibrida_saneada/` |
 | Guia de exportacion | `10_PUBLICACION/GUIA_EXPORTACION_VERSION_SANEADA.md` |

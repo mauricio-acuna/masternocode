@@ -13,7 +13,7 @@ Convertir el material de la charla técnica en una obra literaria técnica breve
 - Apéndices A, B, C, D y E desarrollados como material aplicable y reutilizable.
 - Revision tecnica/editorial/comercial v0.1 ejecutada; paquete publicable condicionado preparado.
 - Copia hibrida saneada y Markdown completo ensamblado preparados para revision externa.
-- HTML imprimible, guia de exportacion y paquete de revision externa preparados.
+- HTML imprimible, PDF, guia de exportacion y paquete de revision externa preparados.
 - Riesgos identificados: marcas reales (Shopify, n8n, etc.), nombres (Brian Hume, Max Planck Dev), cifras del caso.
 
 ## Plan de Trabajo Paso a Paso
@@ -64,4 +64,4 @@ Convertir el material de la charla técnica en una obra literaria técnica breve
 - **IA como magia**: Mostrar dependencia de knowledge base y contexto.
 
 ## Próximo Acción Inmediata
-Ejecutar lectura externa controlada, definir autor/licencia y exportar version saneada a PDF/DOCX final.
+Ejecutar lectura externa controlada, definir autor/licencia y exportar DOCX final si se requiere revision editable externa.
